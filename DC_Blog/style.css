@@ -1,0 +1,37 @@
+
+.header {
+    min-height: 200px;
+}
+.header-left {
+    float: left;
+}
+.header-left h1 {
+    display:inline;
+}
+.header-right { 
+    float: right;
+}
+.header-right li {
+    display:inline;
+}
+.core {
+    margin: 0 auto;
+    width: 800px;
+}
+.core-date {
+    text-align: center;
+}
+.core-social {
+    text-align: center;
+}
+.core-title h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+.bottom-nav li {
+  display: inline;
+}
+.footer {
+    margin: auto 0;
+    text-align: center;
+}

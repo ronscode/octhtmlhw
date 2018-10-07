@@ -1,0 +1,26 @@
+.header {
+    min-height: 200px;
+}
+.header-left {
+    float: left;
+}
+.header-left h1 {
+    display: inline;
+}
+.header-right {
+    float: right;
+}
+.article {
+    max-width: 650px;
+    margin: 0px auto;
+}
+.title {
+    max-width: 350px;
+    margin: 0px auto;
+}
+.date {
+    margin: 0px auto;
+}
+.social {
+    margin: 0px auto;
+}
