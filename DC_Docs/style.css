@@ -1,0 +1,39 @@
+.container {
+
+}
+
+.left-nav {
+    float: left;
+    width: 200px;
+    background-color: #535353;
+    height:100%;
+    position: fixed;
+}
+
+.right-header h1 {
+    display: inline;
+}
+
+.right-main {
+    padding-left:225px;
+    
+  
+}
+.main-content {
+    float:right;
+}
+.quote {
+    background-color: lightgrey;
+    border-left-color: darkgray;
+    border-left-style: solid;
+    border-left-width: thick;
+    padding: 10px 10px;
+}
+.left-footer {
+    position: absolute;
+    bottom: 10px;
+    width: 170px;
+    text-align: center;
+    font-size:8px;
+    color:gray;
+}
