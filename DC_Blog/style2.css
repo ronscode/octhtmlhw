@@ -1,5 +1,5 @@
 .header {
-    min-height: 200px;
+    min-height: 80px;
 }
 .header-left {
     float: left;
@@ -17,10 +17,22 @@
 .title {
     max-width: 350px;
     margin: 0px auto;
+    text-align: center;
 }
 .date {
     margin: 0px auto;
+    max-width: 200px;
 }
 .social {
+    max-width:200px;
     margin: 0px auto;
+}
+.bottom-navigation {
+    max-width: 650px;
+    margin: 0px auto;
+}
+.footer {
+    max-width: 200px;
+    margin: 0px auto;
+    text-align: center;
 }
